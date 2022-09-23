@@ -5,3 +5,5 @@
 
 ![Profile views](https://gpvc.arturio.dev/Abdurrahmans)  
 
+![](https://visitor-badge.glitch.me/badge?page_id=Abdurrahmans.Abdurrahmans)  
+
