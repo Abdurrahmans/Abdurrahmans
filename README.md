@@ -84,11 +84,11 @@ alt="scikit-learn" data-canonical-src="https://img.shields.io/badge/scikit--lear
  
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdurrahmans&show_icons=true&theme=radical)
 
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
 
 
