@@ -24,10 +24,15 @@ I am a Software & Machine Learning Engineer Apart from that I am learning contin
  
  <a target="blank" rel="noopener noreferrer nofollow" herf="https://www.php.net">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png?20180502235434" alt="PHP" width="40" height style="max-width: 100%;">&nbsp;</a>
+ 
+ 
+ <a target="blank" rel="noopener noreferrer nofollow" herf="https://docs.djangoproject.com">
+  <img src="https://studygyaan.com/wp-content/uploads/2021/12/django-logo-negative.png" alt="Django" width="40" height style="max-width: 100%;">&nbsp;</a>
 
 </p>
 
 
+https://studygyaan.com/wp-content/uploads/2021/12/django-logo-negative.png
 
 
 <h4>ML/DL/NLP/DEVELOPMENT</h4>
@@ -56,7 +61,7 @@ alt="scikit-learn" data-canonical-src="https://img.shields.io/badge/scikit--lear
 
 </p>
 
-
+https://studygyaan.com/wp-content/uploads/2021/12/django-logo-negative.png
 
 
 <h4>Database:</h4>
