@@ -44,8 +44,9 @@ I am a Software & Machine Learning Engineer Apart from that I am learning contin
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abdurrahmans)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abdurrahmans)](https://github.com/ryo-ma/github-profile-trophy)
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Abdurrahmans&theme=tokyonight&border_radius=4.5)](https://git.io/streak-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdurrahmans&theme=tokyonight&show_icons=true)    
 
