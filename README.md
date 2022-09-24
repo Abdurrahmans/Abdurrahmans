@@ -17,7 +17,8 @@
 
 <p dir="auto">
    <a target="blank" rel="noopener noreferrer nofollow" herf="	https://camo.githubusercontent.com/0dc77879e3ee5ed…f722d7468652d6261646765266c6f676f3d66617374617069">
-      <img src="https://camo.githubusercontent.com/80ab2110fcef930…56e736f72666c6f77266c6f676f436f6c6f723d7768697465" alt="Tensorflow" data-canonical-src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="max-width: 100%;">
+      <img src="https://camo.githubusercontent.com/80ab2110fcef930…56e736f72666c6f77266c6f676f436f6c6f723d7768697465" alt="Tensorflow" data-canonical-src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="max-width: 100%;">&nbsp;
+
    </a>
 </p>
 
