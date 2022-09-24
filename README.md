@@ -42,7 +42,7 @@ I am a Software & Machine Learning Engineer Apart from that I am learning contin
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abdurrahmans&theme=tokyonight&border_radius=4.5margin-w=20)](https://git.io/streak-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdurrahmans&theme=tokyonight&show_icons=true)    
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abdurrahmans&theme=tokyonight&margin-w=20&border_radius=4.5)](https://git.io/streak-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdurrahmans&theme=tokyonight&show_icons=true)    
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abdurrahmans&theme=tokyonight&column=7&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
