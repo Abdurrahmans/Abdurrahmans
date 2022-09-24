@@ -9,6 +9,7 @@ I am a Software & Machine Learning Engineer Apart from that I am learning contin
 
 
 
+<hr style="width:50%;text-align:left;margin-left:0">
 ![Profile views](https://gpvc.arturio.dev/Abdurrahmans) ![](https://visitor-badge.glitch.me/badge?page_id=Abdurrahmans.Abdurrahmans)
 
 
