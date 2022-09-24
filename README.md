@@ -75,6 +75,8 @@ alt="scikit-learn" data-canonical-src="https://img.shields.io/badge/scikit--lear
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdurrahmans&theme=tokyonight&show_icons=true)    
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdurrahmans&theme=tokyonight&show_icons=true)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abdurrahmans&theme=tokyonight&column=7&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abdurrahmans&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
