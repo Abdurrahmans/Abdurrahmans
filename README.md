@@ -48,7 +48,7 @@ I am a Software & Machine Learning Engineer Apart from that I am learning contin
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abdurrahmans&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![GitHub metrics](https://metrics.lecoq.io/Abdurrahmans)  
+![GitHub metrics](https://metrics.lecoq.io/Abdurrahmans)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdurrahmans)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
