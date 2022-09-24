@@ -11,7 +11,13 @@ I am a Software & Machine Learning Engineer Apart from that I am learning contin
 <hr/>
 <h4>Languages:</h4>
 
-<h4>ML/DL/NLP</h4>
+<h4>ML/DL/NLP/DEVELOPMENT</h4>
+
+<h4>Database:</h4>
+
+<h4>Tools & technologies:</h4>
+
+<h3>IDEs:</h3>
 
 
 ![Profile views](https://gpvc.arturio.dev/Abdurrahmans)  ![](https://visitor-badge.glitch.me/badge?page_id=Abdurrahmans.Abdurrahmans)  
