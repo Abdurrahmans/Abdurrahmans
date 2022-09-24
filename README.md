@@ -55,7 +55,14 @@ I am a Software & Machine Learning Engineer Apart from that I am learning contin
 
 
 
+<link rel="stylesheet" href="node_modules/octicons/build/font/octicons.css">
+<link rel="stylesheet" href="node_modules/github-activity-feed/dist/github-activity.min.css">
 
+<script type="text/javascript" src="node_modules/mustache/mustache.min.js"></script>
+<script type="text/javascript" src="node_modules/github-activity-feed/dist/github-activity.min.js"></script>
+
+<!-- if using dark theme add this in addition to the main CSS file -->
+<link rel="stylesheet" href="node_modules/github-activity-feed/dist/github-activity.dark.min.css">
 
 
 
