@@ -11,8 +11,8 @@ I am a Software & Machine Learning Engineer Apart from that I am learning contin
 <hr/>
 <h4>Languages:</h4>
 <p dir="auto">
- <a target="blank" rel="noopener noreferrer nofollow" herf="		https://camo.githubusercontent.com/94be0a2e5be1429…76f3d707974686f6e266c6f676f436f6c6f723d7768697465">
-  <img src="https://camo.githubusercontent.com/94be0a2e5be142925615e5821d97137a930d08fc154962ce43860f1957e6661e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" alt="Python" data-canonical-src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="max-width: 100%;">&nbsp;</a>
+ <a target="blank" rel="noopener noreferrer nofollow" herf="[https://camo.githubusercontent.com/94be0a2e5be1429…76f3d707974686f6e266c6f676f436f6c6f723d7768697465](https://en.cppreference.com/)">
+  <img src="" alt="C" width="40" height style="max-width: 100%;">&nbsp;</a>
  
 <a target="blank" rel="noopener noreferrer nofollow" herf="	https://camo.githubusercontent.com/80ab2110fcef930…56e736f72666c6f77266c6f676f436f6c6f723d7768697465">
     <img src="https://camo.githubusercontent.com/771cc18a712bf9edb0925a86164c34b0d803c4d9177dd4467eff7b777109c723/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" alt="PHP" data-canonical-src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="max-width: 100%;">&nbsp;</a>
