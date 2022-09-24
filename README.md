@@ -22,4 +22,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Abdurrahmans&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=vue-dark&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abdurrahmans&theme=vue-dark&border_radius=10)](https://git.io/streak-stats)
