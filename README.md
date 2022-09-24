@@ -34,6 +34,8 @@ I am a Software & Machine Learning Engineer Apart from that I am learning contin
  <a target="blank" rel="noopener noreferrer nofollow" herf="https://reactnative.dev/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React Native" width="40" height style="max-width: 100%;">&nbsp;</a>
  
+  <a target="blank" rel="noopener noreferrer nofollow" herf="https://laravel.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" width="40" height style="max-width: 100%;">&nbsp;</a>
  
 </p>
 
