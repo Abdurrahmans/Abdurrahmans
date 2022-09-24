@@ -23,7 +23,7 @@ I am a Software & Machine Learning Engineer Apart from that I am learning contin
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="JAVA" width="40" height style="max-width: 100%;">&nbsp;</a>
  
  <a target="blank" rel="noopener noreferrer nofollow" herf="https://www.php.net">
-  <img src="[https://www.php.net/images/logos/php-logo-white.svg" alt="PHP" width="40" height style="max-width: 100%;">&nbsp;</a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png?20180502235434" alt="PHP" width="40" height style="max-width: 100%;">&nbsp;</a>
 
 </p>
 
