@@ -12,7 +12,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Abdurrahmans&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdurrahmans&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdurrahmans&theme=tokyonight&show_icons=true)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abdurrahmans&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
