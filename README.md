@@ -40,10 +40,11 @@ I am a Software & Machine Learning Engineer Apart from that I am learning contin
 <h3>IDEs:</h3>
 
 
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abdurrahmans&theme=tokyonight&border_radius=4.5margin-w=20)](https://git.io/streak-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdurrahmans&theme=tokyonight&show_icons=true)    
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abdurrahmans&theme=tokyonight&column=7&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abdurrahmans&theme=tokyonight&border_radius=4.5)](https://git.io/streak-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdurrahmans&theme=tokyonight&show_icons=true)    
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Abdurrahmans&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
