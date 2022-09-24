@@ -12,6 +12,7 @@
 ![GitHub metrics](https://metrics.lecoq.io/Abdurrahmans)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abdurrahmans)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abdurrahmans&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
 
 ![Profile views](https://gpvc.arturio.dev/Abdurrahmans)  
 
