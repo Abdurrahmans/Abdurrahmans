@@ -19,7 +19,7 @@ I am a Software & Machine Learning Engineer Apart from that I am learning contin
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="PYTHON" width="40" height style="max-width: 100%;">&nbsp;</a>
  
  
- <a target="blank" rel="noopener noreferrer nofollow" herf="[https://camo.githubusercontent.com/94be0a2e5be1429…76f3d707974686f6e266c6f676f436f6c6f723d7768697465](https://en.cppreference.com/)">
+ <a target="blank" rel="noopener noreferrer nofollow" herf="https://www.java.org">
   <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="C" width="40" height style="max-width: 100%;">&nbsp;</a>
  
  <a target="blank" rel="noopener noreferrer nofollow" herf="[https://camo.githubusercontent.com/94be0a2e5be1429…76f3d707974686f6e266c6f676f436f6c6f723d7768697465](https://en.cppreference.com/)">
