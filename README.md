@@ -44,7 +44,7 @@ I am a Software & Machine Learning Engineer Apart from that I am learning contin
 </p>
 
 
-<h4>ML/DL/NLP/</h4>
+<h4>ML/DL/NLP</h4>
 <p dir="auto">
  <a target="blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/80ab2110fcef93088fac399375889c8ba9d46f3daa68a1a1cfac50fb475c9dc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656e736f72666c6f77266c6f676f436f6c6f723d7768697465">
   <img src="https://camo.githubusercontent.com/80ab2110fcef93088fac399375889c8ba9d46f3daa68a1a1cfac50fb475c9dc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656e736f72666c6f77266c6f676f436f6c6f723d7768697465"     
@@ -65,6 +65,10 @@ alt="scikit-learn" data-canonical-src="https://img.shields.io/badge/scikit--lear
  alt="Pandas" data-canonical-src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" style="max-width: 100%;">&nbsp;</a>
  
   <a target="blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2f9c3edd9ff2d48dd262b930c3f5faf9d5956ae61661f2df1d4c941f143d36c8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506c6f746c792d2532333346344637352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706c6f746c79266c6f676f436f6c6f723d7768697465">
+  <img src="https://camo.githubusercontent.com/2f9c3edd9ff2d48dd262b930c3f5faf9d5956ae61661f2df1d4c941f143d36c8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506c6f746c792d2532333346344637352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706c6f746c79266c6f676f436f6c6f723d7768697465"
+ alt="Plotly" data-canonical-src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" style="max-width: 100%;">&nbsp;</a>
+ 
+   <a target="blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2f9c3edd9ff2d48dd262b930c3f5faf9d5956ae61661f2df1d4c941f143d36c8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506c6f746c792d2532333346344637352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706c6f746c79266c6f676f436f6c6f723d7768697465">
   <img src="https://camo.githubusercontent.com/2f9c3edd9ff2d48dd262b930c3f5faf9d5956ae61661f2df1d4c941f143d36c8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506c6f746c792d2532333346344637352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706c6f746c79266c6f676f436f6c6f723d7768697465"
  alt="Plotly" data-canonical-src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" style="max-width: 100%;">&nbsp;</a>
 
