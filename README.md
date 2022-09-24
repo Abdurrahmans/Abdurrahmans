@@ -10,11 +10,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abdurrahmans)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center">
+<div align="center">
   [![GitHub Streak](https://streak-stats.demolab.com?user=Abdurrahmans&theme=tokyonight&border_radius=4.5)](https://git.io/streak-stats)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdurrahmans&theme=tokyonight&show_icons=true)    
 
-</p>
+</div>
 
 
    
