@@ -20,10 +20,10 @@ I am a Software & Machine Learning Engineer Apart from that I am learning contin
  
  
  <a target="blank" rel="noopener noreferrer nofollow" herf="https://www.java.org">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="C" width="40" height style="max-width: 100%;">&nbsp;</a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="JAVA" width="40" height style="max-width: 100%;">&nbsp;</a>
  
- <a target="blank" rel="noopener noreferrer nofollow" herf="[https://camo.githubusercontent.com/94be0a2e5be1429…76f3d707974686f6e266c6f676f436f6c6f723d7768697465](https://en.cppreference.com/)">
-  <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="C" width="40" height style="max-width: 100%;">&nbsp;</a>
+ <a target="blank" rel="noopener noreferrer nofollow" herf="https://www.php.net">
+  <img src="https://www.php.net/images/logos/php-logo-white.svg" alt="PHP" width="40" height style="max-width: 100%;">&nbsp;</a>
  
 
 </p>
