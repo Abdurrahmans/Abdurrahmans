@@ -98,6 +98,21 @@ alt="scikit-learn" data-canonical-src="https://img.shields.io/badge/scikit--lear
 </p>
 <h3>IDEs:</h3>
 
+<p dir="auto">
+<a target="blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/c1762c032012c12072a0ffe9717331353b85afe8d703b20164972e3f3743a6ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f45636c697073652d4645374131362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d45636c69707365266c6f676f436f6c6f723d7768697465">
+  <img src="https://camo.githubusercontent.com/c1762c032012c12072a0ffe9717331353b85afe8d703b20164972e3f3743a6ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f45636c697073652d4645374131362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d45636c69707365266c6f676f436f6c6f723d7768697465"
+ alt="Ecplise" data-canonical-src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" style="max-width: 100%;">&nbsp;</a>
+ 
+ 
+ <a target="blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e922b45bfb79029cf4436e255b0d17b00b651e13b24f1751a9f87b14055fb4b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a7570797465722d2532334641304630302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a757079746572266c6f676f436f6c6f723d7768697465">
+  <img src="https://camo.githubusercontent.com/e922b45bfb79029cf4436e255b0d17b00b651e13b24f1751a9f87b14055fb4b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a7570797465722d2532334641304630302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a757079746572266c6f676f436f6c6f723d7768697465"
+ alt="Jupyter Notebook" data-canonical-src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" style="max-width: 100%;">&nbsp;</a>
+</p>
+
+
+
+
+
 
 
 
@@ -120,7 +135,7 @@ alt="scikit-learn" data-canonical-src="https://img.shields.io/badge/scikit--lear
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
 
 
 
