@@ -9,6 +9,10 @@ I am a Software & Machine Learning Engineer Apart from that I am learning contin
 
 <h1>Skills:</h1>
 <hr/>
+<h4>Languages:</h4>
+
+<h4>ML/DL/NLP</h4>
+
 
 ![Profile views](https://gpvc.arturio.dev/Abdurrahmans)  ![](https://visitor-badge.glitch.me/badge?page_id=Abdurrahmans.Abdurrahmans)  
 
