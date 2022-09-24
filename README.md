@@ -7,3 +7,12 @@
 
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Abdurrahmans)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub metrics](https://metrics.lecoq.io/Abdurrahmans)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abdurrahmans)  
+
+![Profile views](https://gpvc.arturio.dev/Abdurrahmans)  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdurrahmans&theme=dark&show_icons=true)
