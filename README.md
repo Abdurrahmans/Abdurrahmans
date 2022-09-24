@@ -4,7 +4,7 @@
 <h3 align="center"> Software& Machine Learnig Engineer </h3> 
 
 
-![Profile views](https://gpvc.arturio.dev/Abdurrahmans)  ! [](https://visitor-badge.glitch.me/badge?page_id=Abdurrahmans.Abdurrahmans)  
+![Profile views](https://gpvc.arturio.dev/Abdurrahmans)  ![](https://visitor-badge.glitch.me/badge?page_id=Abdurrahmans.Abdurrahmans)  
 
 
 
