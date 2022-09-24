@@ -9,7 +9,7 @@ I am a Software & Machine Learning Engineer Apart from that I am learning contin
 
 <h1>Skills:</h1>
 <hr/>
-<h4>Languages:</h4>
+<h4>Languages & Web Framework:</h4>
 <p dir="auto">
  <a target="blank" rel="noopener noreferrer nofollow" herf="[https://camo.githubusercontent.com/94be0a2e5be1429…76f3d707974686f6e266c6f676f436f6c6f723d7768697465](https://en.cppreference.com/)">
   <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="C" width="40" height style="max-width: 100%;">&nbsp;</a>
@@ -37,11 +37,14 @@ I am a Software & Machine Learning Engineer Apart from that I am learning contin
   <a target="blank" rel="noopener noreferrer nofollow" herf="https://laravel.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" width="40" height style="max-width: 100%;">&nbsp;</a>
  
+  <a target="blank" rel="noopener noreferrer nofollow" herf="https://www.odoo.com/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg" alt="ODOO" width="40" height style="max-width: 100%;">&nbsp;</a>
+ 
+ 
 </p>
 
 
-
-<h4>ML/DL/NLP/DEVELOPMENT</h4>
+<h4>ML/DL/NLP/</h4>
 <p dir="auto">
  <a target="blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/80ab2110fcef93088fac399375889c8ba9d46f3daa68a1a1cfac50fb475c9dc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656e736f72666c6f77266c6f676f436f6c6f723d7768697465">
   <img src="https://camo.githubusercontent.com/80ab2110fcef93088fac399375889c8ba9d46f3daa68a1a1cfac50fb475c9dc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656e736f72666c6f77266c6f676f436f6c6f723d7768697465"     
@@ -67,7 +70,6 @@ alt="scikit-learn" data-canonical-src="https://img.shields.io/badge/scikit--lear
 
 </p>
 
-https://studygyaan.com/wp-content/uploads/2021/12/django-logo-negative.png
 
 
 <h4>Database:</h4>
