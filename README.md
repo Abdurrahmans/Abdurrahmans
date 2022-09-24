@@ -36,11 +36,10 @@ I am a Software & Machine Learning Engineer Apart from that I am learning contin
   <img src="https://camo.githubusercontent.com/80ab2110fcef93088fac399375889c8ba9d46f3daa68a1a1cfac50fb475c9dc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656e736f72666c6f77266c6f676f436f6c6f723d7768697465"     
 alt="Tensorflow" data-canonical-src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="max-width: 100%;">&nbsp;</a>
    
-    <a target="blank" rel="noopener noreferrer nofollow" herf="	https://camo.githubusercontent.com/80ab2110fcef930…56e736f72666c6f77266c6f676f436f6c6f723d7768697465">
-  <img src="(https://camo.githubusercontent.com/80ab2110fcef93088fac399375889c8ba9d46f3daa68a1a1cfac50fb475c9dc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656e736f72666c6f77266c6f676f436f6c6f723d7768697465) "     
-alt="Tensorflow" data-canonical-src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="max-width: 100%;">&nbsp;</a>
-   href="https://camo.githubusercontent.com/80ab2110fcef93088fac399375889c8ba9d46f3daa68a1a1cfac50fb475c9dc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656e736f72666c6f77266c6f676f436f6c6f723d7768697465"
-          
+<a target="blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5e8b6493343a841ed161f1862e7de688f67ba8809ad0a76a8f04af618ab2c3bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d2d6c6561726e2d2532334637393331452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465">
+  <img src="https://camo.githubusercontent.com/5e8b6493343a841ed161f1862e7de688f67ba8809ad0a76a8f04af618ab2c3bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d2d6c6561726e2d2532334637393331452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465"
+alt="scikit-learn" data-canonical-src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" style="max-width: 100%;">&nbsp;</a>
+   
 
 </p>
 
