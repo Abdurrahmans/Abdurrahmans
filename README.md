@@ -18,9 +18,12 @@ I am a Software & Machine Learning Engineer Apart from that I am learning contin
  <a target="blank" rel="noopener noreferrer nofollow" herf="https://www.python.org">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="PYTHON" width="40" height style="max-width: 100%;">&nbsp;</a>
  
- 
- <a target="blank" rel="noopener noreferrer nofollow" herf="https://www.java.org">
+  <a target="blank" rel="noopener noreferrer nofollow" herf="https://www.java.org">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="JAVA" width="40" height style="max-width: 100%;">&nbsp;</a>
+ 
+ 
+ <a target="blank" rel="noopener noreferrer nofollow" herf="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" alt="JAVASCRIPT" width="40" height style="max-width: 100%;">&nbsp;</a>
  
  <a target="blank" rel="noopener noreferrer nofollow" herf="https://www.php.net">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png?20180502235434" alt="PHP" width="40" height style="max-width: 100%;">&nbsp;</a>
@@ -32,7 +35,6 @@ I am a Software & Machine Learning Engineer Apart from that I am learning contin
 </p>
 
 
-https://studygyaan.com/wp-content/uploads/2021/12/django-logo-negative.png
 
 
 <h4>ML/DL/NLP/DEVELOPMENT</h4>
