@@ -75,7 +75,7 @@ alt="scikit-learn" data-canonical-src="https://img.shields.io/badge/scikit--lear
 </p>
 
 <h4>Database:</h4>
-
+<p dir="auto">
  <a target="blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/988b23566a8e239f9717abbed64d36834115c8a8c7082a71c358e04f47f8398c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030303030463f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465">
   <img src="https://camo.githubusercontent.com/988b23566a8e239f9717abbed64d36834115c8a8c7082a71c358e04f47f8398c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030303030463f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"
     alt="MySQL" data-canonical-src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="max-width: 100%;">&nbsp;</a>
@@ -83,18 +83,19 @@ alt="scikit-learn" data-canonical-src="https://img.shields.io/badge/scikit--lear
   <a target="blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/281c069a2703e948b536500b9fd808cb4fb2496b3b66741db4013a2c89e91986/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465">
   <img src="https://camo.githubusercontent.com/281c069a2703e948b536500b9fd808cb4fb2496b3b66741db4013a2c89e91986/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465"
  alt="PostgresSQL" data-canonical-src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="max-width: 100%;">&nbsp;</a>
-
+</p>
 <h3>Tools & technologies:</h3>
 
+<p dir="auto">
 <a target="blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/878e15b4f7576e844856dc60d855ba0587d3d2bc56211fbe69734ebccb13b068/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b">
   <img src="https://camo.githubusercontent.com/878e15b4f7576e844856dc60d855ba0587d3d2bc56211fbe69734ebccb13b068/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b"
  alt="Linux" data-canonical-src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="max-width: 100%;">&nbsp;</a>
  
  
- <a target="blank" rel="noopener noreferrer nofollow" >
-  <img src="https://camo.githubusercontent.com/281c069a2703e948b536500b9fd808cb4fb2496b3b66741db4013a2c89e91986/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465"
- alt="PostgresSQL" data-canonical-src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="max-width: 100%;">&nbsp;</a>
-
+ <a target="blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/06c6858186510906c21d8c951168d55d976d7dfb9176ed6125c55b8a7de0baae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749542d4534344333303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465">
+  <img src="https://camo.githubusercontent.com/06c6858186510906c21d8c951168d55d976d7dfb9176ed6125c55b8a7de0baae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749542d4534344333303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"
+ alt="Git" data-canonical-src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%;">&nbsp;</a>
+</p>
 <h3>IDEs:</h3>
 
 
