@@ -20,8 +20,13 @@ I am a Software & Machine Learning Engineer Apart from that I am learning contin
  
     
 <a target="blank" rel="noopener noreferrer nofollow" herf="	https://camo.githubusercontent.com/80ab2110fcef930…56e736f72666c6f77266c6f676f436f6c6f723d7768697465">
-    <img src="https://camo.githubusercontent.com/80ab2110fcef93088fac399375889c8ba9d46f3daa68a1a1cfac50fb475c9dc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656e736f72666c6f77266c6f676f436f6c6f723d7768697465" alt="Tensorflow" data-canonical-src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="max-width: 100%;">&nbsp;</a>  
+    <img src="[https://camo.githubusercontent.com/80ab2110fcef93088fac399375889c8ba9d46f3daa68a1a1cfac50fb475c9dc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656e736f72666c6f77266c6f676f436f6c6f723d7768697465](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png)"
+         
+alt="PHP" data-canonical-src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="max-width: 100%;">&nbsp;</a>  
     
+ 
+ 
+ 
  <a target="blank" rel="noopener noreferrer nofollow" herf="	https://camo.githubusercontent.com/80ab2110fcef930…56e736f72666c6f77266c6f676f436f6c6f723d7768697465">
     <img src="https://camo.githubusercontent.com/80ab2110fcef93088fac399375889c8ba9d46f3daa68a1a1cfac50fb475c9dc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d4646364630303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656e736f72666c6f77266c6f676f436f6c6f723d7768697465" alt="Tensorflow" data-canonical-src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="max-width: 100%;">&nbsp;</a>
 </p>
