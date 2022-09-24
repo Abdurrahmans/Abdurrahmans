@@ -7,10 +7,13 @@
 I am a Software & Machine Learning Engineer Apart from that I am learning continue different technology such as Machine Learning, Deep Learning,Chatbot, NLP,Data Science and contributing to open source| I am currently working on Django and ODOO.
 </p>
 
+<hr/>
+
 ![Profile views](https://gpvc.arturio.dev/Abdurrahmans) ![](https://visitor-badge.glitch.me/badge?page_id=Abdurrahmans.Abdurrahmans)
 
+
 <h1>Skills:</h1>
-<hr/>
+
 <h4>Languages & Web Framework:</h4>
 <p dir="auto">
  <a target="blank" rel="noopener noreferrer nofollow" herf="[https://camo.githubusercontent.com/94be0a2e5be1429…76f3d707974686f6e266c6f676f436f6c6f723d7768697465](https://en.cppreference.com/)">
