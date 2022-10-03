@@ -4,7 +4,7 @@
 <h3 align="center"> Software& Machine Learnig Engineer </h3> 
 
 <p align="center">
-I am a Software & Machine Learning Engineer Apart from that I am learning continue different technology such as Machine Learning, Deep Learning,Chatbot, NLP,Data Science and contributing to open source| I am currently working on Django,React & ODOO.
+I am a Software & Machine Learning Engineer Apart from that I am learning continue different technology such as Machine Learning, Deep Learning,Chatbot,Tensorflow,Pytorch,Darknet,NLTK,Spacy,NLP,Data Science and contributing to open source| I am currently working on Django,React & ODOO.
 </p>
 
 
