@@ -133,13 +133,7 @@ alt="scikit-learn" data-canonical-src="https://img.shields.io/badge/scikit--lear
                                                                                                                           
 [![trophy](https://github-profile-trophy.vercel.app/?username=Abdurrahmans&theme=tokyonight&column=7&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-                                                                                                                                         
-                                                                                                                                            
-                                                                                                                                                    
-                                                                                                                                           [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdurrahmans)](https://github.com/ashutosh00710/github-readme-activity-graph)       
-                                                                                                                                         [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph username=Abdurrahmans&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-                                                                                                                                            [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abdurrahmans&theme=react-dark)](https://github.com/Abdurrahmans/github-readme-activity-graph)                                                                                                                                               
+                                                                                                                                       [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abdurrahmans&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)                                                                                                                                               
                                                                                                                                                     
                                                                                                                                                     
                                                                                                                                                     
