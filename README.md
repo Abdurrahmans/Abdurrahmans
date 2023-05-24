@@ -135,7 +135,10 @@ alt="scikit-learn" data-canonical-src="https://img.shields.io/badge/scikit--lear
 
 
                                                                                                                                          
+                                                                                                                                            
                                                                                                                                                     
+                                                                                                                                                    
+                                                                                                                                         [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph username=Abdurrahmans&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
                                                                                                                                             [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Abdurrahmans&theme=react-dark)](https://github.com/Abdurrahmans/github-readme-activity-graph)                                                                                                                                               
                                                                                                                                                     
                                                                                                                                                     
