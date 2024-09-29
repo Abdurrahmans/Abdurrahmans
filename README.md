@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi <img src="https://c.tenor.com/yWSRmymbuBkAAAAM/waving-hi.gif width="55px" height="55px" "> I am Abdur Rahman</h1> 
 
-<h3 align="center"> Software& Machine Learnig Engineer </h3> 
+<h3 align="center"> Software & Machine Learnig Engineer </h3> 
 
 <p align="center">
 I am a Software & Machine Learning Engineer Apart from that I am learning continue different technology such as Machine Learning, Deep Learning,Chatbot,Tensorflow,Pytorch,Darknet,NLTK,Spacy,NLP,Data Science and contributing to open source| I am currently working on Django,Machine Learning,React & ODOO.
@@ -9,7 +9,7 @@ I am a Software & Machine Learning Engineer Apart from that I am learning contin
 
 
 
-![Profile views](https://gpvc.arturio.dev/Abdurrahmans)  ![](https://visitor-badge.glitch.me/badge?page_id=Abdurrahmans.Abdurrahmans)
+![Profile views](https://gpvc.arturio.dev/Abdurrahmans) ![](https://visitor-badge.glitch.me/badge?page_id=Abdurrahmans.Abdurrahmans)
 
 
 <h1>Skills:</h1>
