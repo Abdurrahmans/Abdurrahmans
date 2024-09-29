@@ -10,7 +10,7 @@ I am a Software & Machine Learning Engineer Apart from that I am learning contin
 
 
 ![Profile views](https://gpvc.arturio.dev/Abdurrahmans) ![](https://visitor-badge.glitch.me/badge?page_id=Abdurrahmans.Abdurrahmans)
-
+![](https://komarev.com/ghpvc/?username=your-github-Abdurrahmans&abbreviated=true)
 
 <h1>Skills:</h1>
 
