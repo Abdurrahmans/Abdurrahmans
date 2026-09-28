@@ -84,6 +84,13 @@ I am a Software Engineer and Python Developer who builds intelligent, production
   <img src="https://streak-stats.demolab.com?user=Abdurrahmans&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="./metrics/contribution-calendar.svg" alt="Contribution calendar" width="49%" />
+  <img src="./metrics/recent-activity.svg" alt="Recent activity" width="49%" />
+</p>
+
 ## 🐍 Contribution Snake
 
 <p align="center">
