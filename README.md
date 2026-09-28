@@ -67,7 +67,31 @@ I am a Software Engineer and Python Developer who builds intelligent, production
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most commit languages" width="49%" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" width="49%" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Abdurrahmans&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdurrahmans/Abdurrahmans/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdurrahmans/Abdurrahmans/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Abdurrahmans/Abdurrahmans/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
