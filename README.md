@@ -8,14 +8,29 @@
 
 ## 🚀 About Me
 
-I am a Software Engineer and Python Developer who builds intelligent, production-ready applications, from business systems to AI-powered agents.
+I am a **Software Engineer and Python Developer** who designs and builds scalable, production-ready software, from enterprise business systems to intelligent AI-powered applications. I combine strong backend engineering with hands-on expertise in **Machine Learning, Agentic AI, and Computer Vision** to turn complex problems into reliable, real-world solutions.
 
-- 🐍 **Python first:** building backends, APIs, and AI solutions with Python
-- 🤖 **Agentic AI & Chatbots:** designing LLM-powered agents and chatbots with LangChain and LangGraph
-- 🧠 **Machine Learning & Deep Learning:** training and deploying models with TensorFlow and PyTorch
-- 👁️ **Computer Vision:** image processing, object detection, and vision-based solutions
-- 💼 **Currently working with:** Odoo, FastAPI, Django, and JavaScript
-- 🌱 **Open source:** I regularly contribute to open-source projects
+I care about clean architecture, maintainable code, and delivering measurable value. Whether it's automating business workflows in Odoo, building high-performance APIs with FastAPI, or deploying intelligent agents with LangChain and LangGraph, I focus on building systems that are robust, efficient, and easy to scale.
+
+### 💡 What I Do
+
+- 🐍 **Backend Development:** Designing secure, high-performance REST APIs and backend services with Python, FastAPI, and Django
+- 🏢 **ERP Solutions:** Developing and customizing Odoo modules to automate and streamline business processes
+- 🤖 **Agentic AI & Chatbots:** Building LLM-powered autonomous agents, multi-step workflows, and conversational chatbots with LangChain and LangGraph
+- 🧠 **Machine Learning & Deep Learning:** Training, evaluating, and deploying models with TensorFlow and PyTorch
+- 👁️ **Computer Vision:** Developing image processing, object detection, and recognition systems with OpenCV and YOLO
+- 🗣️ **Natural Language Processing:** Text analysis, classification, and language understanding with spaCy and NLTK
+
+### 🎯 Current Focus
+
+- 🔭 Building **agentic AI systems** that plan, reason, and act using LangGraph
+- ⚡ Integrating AI capabilities into **FastAPI** services and **Odoo** business applications
+- 📚 Continuously learning new tools and best practices in AI and software engineering
+- 🌱 Contributing to **open-source** projects and sharing knowledge with the community
+
+### 🤝 Open To
+
+Collaboration on AI, Machine Learning, and backend projects, as well as exciting full-time and freelance opportunities.
 
 ---
 
@@ -67,6 +82,14 @@ I am a Software Engineer and Python Developer who builds intelligent, production
 
 ![Contribution activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdurrahmans&theme=tokyonight)
 
+### 🗓️ Contribution Calendar
+
+![Contribution calendar](https://ghchart.rshah.org/7aa2f7/Abdurrahmans)
+
+### 🔥 Contribution Streak
+
+![GitHub streak](https://streak-stats.demolab.com?user=Abdurrahmans&theme=tokyonight&hide_border=true)
+
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdurrahmans&theme=tokyonight)
@@ -74,8 +97,6 @@ I am a Software Engineer and Python Developer who builds intelligent, production
 
 ![Most commit languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdurrahmans&theme=tokyonight)
 ![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdurrahmans&theme=tokyonight)
-
-![GitHub streak](https://streak-stats.demolab.com?user=Abdurrahmans&theme=tokyonight&hide_border=true)
 
 ---
 
