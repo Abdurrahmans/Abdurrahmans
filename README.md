@@ -127,6 +127,23 @@ As a **Software Engineer, Odoo Developer, and ML Engineer**, I combine strong ba
 
 ---
 
+## 🏆 GitHub Achievements
+
+[![View My Achievements](https://img.shields.io/badge/View_My-GitHub_Achievements-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Abdurrahmans?tab=achievements)
+
+<!-- Keep ONLY the badges you have actually earned: move those lines outside this comment block.
+<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/pull-shark-default.png" alt="Pull Shark" width="80" />
+<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/quickdraw-default.png" alt="Quickdraw" width="80" />
+<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/yolo-default.png" alt="YOLO" width="80" />
+<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/pair-extraordinaire-default.png" alt="Pair Extraordinaire" width="80" />
+<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/starstruck-default.png" alt="Starstruck" width="80" />
+<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/galaxy-brain-default.png" alt="Galaxy Brain" width="80" />
+<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/public-sponsor-default.png" alt="Public Sponsor" width="80" />
+<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/arctic-code-vault-contributor-default.png" alt="Arctic Code Vault Contributor" width="80" />
+-->
+
+---
+
 ## 📈 Contribution Activity
 
 ![Contribution activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdurrahmans&theme=tokyonight)
