@@ -1,6 +1,8 @@
 # Hi 👋, I'm Abdur Rahman
 
-### Software Engineer · Python Developer · AI & Machine Learning Engineer
+### Software Engineer · Odoo Developer · ML Engineer
+
+**Building scalable ERP systems, AI agents & intelligent automation for businesses.**
 
 ![Typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&width=650&lines=I+build+AI+agents+and+chatbots+with+LangChain+%26+LangGraph;I+develop+fast%2C+secure+APIs+with+FastAPI+%26+Django;I+customize+Odoo+ERP+to+automate+your+business;I+deliver+ML+and+Computer+Vision+solutions)
 
@@ -22,7 +24,7 @@
 
 I help businesses and startups turn ideas into **reliable, production-ready software**, from AI agents and chatbots to scalable backend systems and ERP automation.
 
-As a **Software Engineer and Python Developer**, I combine strong backend engineering with hands-on expertise in **Agentic AI, Machine Learning, and Computer Vision**. I focus on clean architecture, clear communication, and on-time delivery, so you get software that works, scales, and is easy to maintain.
+As a **Software Engineer, Odoo Developer, and ML Engineer**, I combine strong backend engineering with hands-on expertise in **Agentic AI, Machine Learning, and Computer Vision**. I focus on clean architecture, clear communication, and on-time delivery, so you get software that works, scales, and is easy to maintain.
 
 ---
 
