@@ -133,14 +133,33 @@ My work spans the full lifecycle: understanding business requirements, designing
 
 ## 📊 GitHub Analytics
 
+### 📈 Contribution Overview
+
 ![Contribution activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdurrahmans&theme=tokyonight)
 
-![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdurrahmans&theme=tokyonight)
-![Most commit languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdurrahmans&theme=tokyonight)
+### 🗓️ Contribution Calendar
+
+![Contribution calendar](https://ghchart.rshah.org/7aa2f7/Abdurrahmans)
+
+### 🔥 Contribution Streak
 
 ![GitHub streak](https://streak-stats.demolab.com?user=Abdurrahmans&theme=tokyonight&hide_border=true)
 
+### 📊 Stats & Productivity
+
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdurrahmans&theme=tokyonight)
+![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdurrahmans&theme=tokyonight&utcOffset=6)
+
+### 💻 Languages
+
+![Most commit languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdurrahmans&theme=tokyonight)
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdurrahmans&theme=tokyonight)
+
+### 🏆 Achievements
+
 [![View My Achievements](https://img.shields.io/badge/View-GitHub_Achievements-FFD700?style=flat-square&logo=github&logoColor=black)](https://github.com/Abdurrahmans?tab=achievements)
+[![Followers](https://img.shields.io/github/followers/Abdurrahmans?style=flat-square&logo=github&label=Followers&color=7AA2F7)](https://github.com/Abdurrahmans?tab=followers)
+[![Total Stars](https://img.shields.io/github/stars/Abdurrahmans?affiliations=OWNER&style=flat-square&logo=github&label=Total+Stars&color=FFD700)](https://github.com/Abdurrahmans?tab=repositories)
 
 ---
 
