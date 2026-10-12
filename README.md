@@ -1,174 +1,275 @@
-# Abdur Rahman
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=200&section=header&text=Abdur%20Rahman&fontSize=52&fontColor=c0caf5&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Odoo%20Developer%20%E2%80%A2%20Agentic%20AI%20Engineer&descSize=16&descAlignY=58&animation=fadeIn" alt="Abdur Rahman" width="100%" />
+</p>
 
-### Software Engineer · Odoo Developer · Machine Learning & Agentic AI Engineer
+<p align="center">
+  <a href="https://github.com/Abdurrahmans">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=Designing+scalable+ERP+systems+with+Odoo;Building+AI+agents+with+LangChain+%26+LangGraph;Shipping+fast%2C+secure+APIs+with+FastAPI;Turning+data+into+production+ML+solutions" alt="Typing intro" />
+  </a>
+</p>
 
-![Typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&width=700&lines=Designing+scalable+ERP+systems+with+Odoo;Building+AI+agents+with+LangChain+%26+LangGraph;Shipping+fast%2C+secure+APIs+with+FastAPI;Turning+data+into+production+ML+solutions)
+<p align="center">
+  <a href="mailto:abdurrahmanswe1997@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Abdurrahmans?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+  <!-- Uncomment and add your links:
+  <a href="https://www.linkedin.com/in/YOUR-PROFILE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://YOUR-WEBSITE.com"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.upwork.com/freelancers/YOUR-PROFILE"><img src="https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+  -->
+</p>
 
-[![Email](https://img.shields.io/badge/Email-abdurrahmanswe1997%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdurrahmanswe1997@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Abdurrahmans-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abdurrahmans)
-![Location](https://img.shields.io/badge/Location-Bangladesh_(UTC%2B6)-006A4E?style=flat-square&logo=googlemaps&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-2EA44F?style=flat-square&logo=checkmarx&logoColor=white)
-![Profile views](https://komarev.com/ghpvc/?username=Abdurrahmans&abbreviated=true&color=blue&style=flat-square&label=Profile+Views)
-
-<!-- Add your own links by removing the comment markers:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-PROFILE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://YOUR-WEBSITE.com)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/YOUR-PROFILE)
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Bangladesh_(UTC%2B6)-006A4E?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-2EA44F?style=flat-square&logo=checkmarx&logoColor=white" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=Abdurrahmans&abbreviated=true&color=7aa2f7&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <a href="https://github.com/Abdurrahmans?tab=followers"><img src="https://img.shields.io/github/followers/Abdurrahmans?style=flat-square&logo=github&label=Followers&color=7aa2f7" alt="Followers" /></a>
+</p>
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 About Me
 
-Software Engineer with hands-on experience delivering **enterprise ERP systems, AI-powered applications, and high-performance backend services**. I specialize in **Odoo development, Python, FastAPI, Machine Learning, and Agentic AI**, and I enjoy solving complex business problems with clean, scalable, and maintainable software.
+<table>
+<tr>
+<td width="58%" valign="top">
 
-My work spans the full lifecycle: understanding business requirements, designing system architecture, building and integrating features, and deploying reliable solutions to production. I bring a strong engineering mindset to every project, with a focus on code quality, performance, and long-term maintainability.
+Software Engineer delivering **enterprise ERP systems, AI-powered applications and high-performance backend services**. I specialize in **Odoo, Python, FastAPI, Machine Learning and Agentic AI**, and I enjoy turning complex business problems into clean, scalable software.
+
+I work across the full lifecycle: understanding requirements, designing the architecture, building and integrating features, and shipping reliable systems to production.
+
+- 🔭 Currently building **AI agents for HR and ERP workflows**
+- 🛒 Recently shipped **async e-commerce and POS systems** with real-time stock
+- 🌱 Exploring **multi-agent systems, RAG evaluation and MLOps**
+- 🤝 Open to **full-time roles, freelance projects and collaborations**
+- ⚡ Fun fact: I debug faster with a cup of tea ☕
+
+</td>
+<td width="42%" valign="top">
+
+```python
+class AbdurRahman:
+    role = "Software Engineer"
+    location = "Bangladesh 🇧🇩"
+
+    focus = [
+        "Odoo ERP Development",
+        "Agentic AI & LLM Apps",
+        "Backend Engineering",
+        "Machine Learning & CV",
+    ]
+
+    stack = {
+        "backend": ["Python", "FastAPI",
+                    "Django", "Odoo"],
+        "ai":      ["LangChain", "LangGraph",
+                    "PyTorch", "TensorFlow"],
+        "data":    ["PostgreSQL", "MySQL"],
+        "devops":  ["Docker", "Linux", "Nginx"],
+    }
+
+    def say_hi(self):
+        return "Let's build something great!"
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎯 Core Expertise
 
-**🏢 Odoo ERP Development**
-- Custom module development, model design, and business workflow automation
-- Backend logic in Python with ORM, security rules, and access control
-- Frontend customization with JavaScript, OWL, QWeb, and XML views
-- Data migration, bulk imports, reports, and third-party integrations
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**🤖 Agentic AI & LLM Applications**
-- Autonomous, multi-step AI agents with LangChain and LangGraph
-- RAG (Retrieval-Augmented Generation) chatbots over company documents
-- LLM integration into business systems such as HR, ERP, and customer support
-- Prompt engineering, tool calling, and conversational workflow design
+### 🏢 Odoo ERP Development
+- Custom modules, model design and workflow automation
+- Python ORM, security rules and access control
+- OWL, QWeb, JavaScript and XML view customization
+- Data migration, reports and third-party integrations
 
-**⚡ Backend Engineering**
-- RESTful API design and development with FastAPI and Django
-- Authentication, validation, and secure, well-documented endpoints
-- Database design and query optimization with PostgreSQL and MySQL
-- Containerized deployment with Docker on Linux servers
+</td>
+<td width="50%" valign="top">
 
-**🧠 Machine Learning & Computer Vision**
-- End-to-end ML pipelines: data preparation, training, evaluation, deployment
+### 🤖 Agentic AI & LLM Applications
+- Autonomous multi-step agents with LangChain & LangGraph
+- RAG chatbots over company documents
+- LLMs integrated into HR, ERP and support systems
+- Prompt engineering, tool calling and conversation design
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Backend Engineering
+- Async REST APIs with FastAPI and Django
+- JWT auth, validation and documented endpoints
+- Real-time features with WebSockets
+- PostgreSQL / MySQL design and query optimization
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Machine Learning & Computer Vision
+- End-to-end ML pipelines from data to deployment
 - Deep learning with TensorFlow and PyTorch
-- Object detection and image analysis with OpenCV and YOLO
+- Object detection with OpenCV and YOLO
 - NLP with spaCy and NLTK
 
----
-
-## 🌟 Featured Projects
-
-| Project | Description | Tech Stack |
-| --- | --- | --- |
-| [**HR AI Assistant**](https://github.com/Abdurrahmans/hr_ai_assistant) | AI-powered assistant that automates HR queries and workflows using LLMs | Python · FastAPI · LangChain |
-
-<!-- Add more projects as rows in the table above, for example:
-| [**Project Name**](https://github.com/Abdurrahmans/REPO) | What it does and the result it delivered | Odoo · Python · PostgreSQL |
--->
-
-> 📂 Explore all my work in my [repositories](https://github.com/Abdurrahmans?tab=repositories).
-
----
-
-## 🧭 Engineering Approach
-
-- **Business first:** I start by understanding the problem and the value the solution must deliver
-- **Clean architecture:** modular, readable, and well-documented code that teams can extend
-- **Scalability and performance:** systems designed to grow with users and data
-- **Security by default:** proper authentication, access control, and data protection
-- **Reliable delivery:** testing, version control with Git, and smooth deployments
-- **Clear communication:** transparent progress updates and close collaboration
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,tailwind,postgres,mysql&perline=7" alt="Languages and databases" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,pytorch,tensorflow,sklearn,opencv&perline=7" alt="Frameworks and ML" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,nginx,git,github,vscode,pycharm&perline=8" alt="DevOps and tools" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![XML](https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=xml&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
 
-**ERP & Backend**
+---
 
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white)
+## 🌟 Featured Projects
 
-**Agentic AI & LLMs**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+### 🤖 [HR AI Assistant](https://github.com/Abdurrahmans/hr_ai_assistant)
+AI-powered HR platform that automates candidate screening, interviews and HR queries with LLM agents. Includes a careers site, hiring workspace and password-reset flow.
 
-**Machine Learning & Data**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-**Databases**
+### 🛒 [ShopFast](https://github.com/Abdurrahmans/shopfast)
+Async e-commerce platform with JWT auth, admin dashboard, coupons and **real-time stock updates over WebSockets**. Atomic stock updates prevent overselling under concurrent checkouts.
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-**DevOps & Tools**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+### 🍽️ [Restaurant POS](https://github.com/Abdurrahmans/restaurant-pos)
+Point-of-sale system for food courts and restaurants with an admin panel, order management and live stock tracking.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [Odoo Accounting Dashboard](https://github.com/Abdurrahmans/odoo-accounting-dashboard)
+Custom Odoo module that gives finance teams a visual dashboard of revenue, expenses, receivables and cash flow.
+
+![Odoo](https://img.shields.io/badge/-Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OWL](https://img.shields.io/badge/-OWL_/_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Abdurrahmans?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Repositories-7AA2F7?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" /></a>
+</p>
+
+---
+
+## 🧭 Engineering Approach
+
+| | Principle | What it means |
+| :---: | --- | --- |
+| 🎯 | **Business first** | Understand the problem and the value before writing code |
+| 🧱 | **Clean architecture** | Modular, readable, documented code that teams can extend |
+| 📈 | **Scalable & fast** | Systems designed to grow with users and data |
+| 🔐 | **Secure by default** | Proper authentication, access control and data protection |
+| ✅ | **Reliable delivery** | Automated tests, Git workflows and smooth deployments |
+| 💬 | **Clear communication** | Transparent progress and close collaboration |
 
 ---
 
 ## 📊 GitHub Analytics
 
-### 📈 Contribution Overview
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdurrahmans&theme=tokyonight" alt="Profile details" width="95%" />
+</p>
 
-![Contribution activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdurrahmans&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abdurrahmans&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdurrahmans&theme=tokyonight" alt="GitHub stats" height="170" />
+</p>
 
-### 🗓️ Contribution Calendar
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdurrahmans&theme=tokyonight" alt="Most commit languages" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdurrahmans&theme=tokyonight" alt="Repos per language" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdurrahmans&theme=tokyonight&utcOffset=6" alt="Productive time" height="170" />
+</p>
 
-![Contribution calendar](https://ghchart.rshah.org/7aa2f7/Abdurrahmans)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdurrahmans&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="95%" />
+</p>
 
-### 🔥 Contribution Streak
+<!-- Contribution snake: works after the "Generate snake" GitHub Action has run once (see .github/workflows/snake.yml) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdurrahmans/Abdurrahmans/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdurrahmans/Abdurrahmans/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Abdurrahmans/Abdurrahmans/output/github-snake-dark.svg" width="95%" />
+  </picture>
+</p>
 
-![GitHub streak](https://streak-stats.demolab.com?user=Abdurrahmans&theme=tokyonight&hide_border=true)
-
-### 📊 Stats & Productivity
-
-![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdurrahmans&theme=tokyonight)
-![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdurrahmans&theme=tokyonight&utcOffset=6)
-
-### 💻 Languages
-
-![Most commit languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdurrahmans&theme=tokyonight)
-![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdurrahmans&theme=tokyonight)
-
-### 🏆 Achievements
-
-[![View My Achievements](https://img.shields.io/badge/View-GitHub_Achievements-FFD700?style=flat-square&logo=github&logoColor=black)](https://github.com/Abdurrahmans?tab=achievements)
-[![Followers](https://img.shields.io/github/followers/Abdurrahmans?style=flat-square&logo=github&label=Followers&color=7AA2F7)](https://github.com/Abdurrahmans?tab=followers)
-[![Total Stars](https://img.shields.io/github/stars/Abdurrahmans?affiliations=OWNER&style=flat-square&logo=github&label=Total+Stars&color=FFD700)](https://github.com/Abdurrahmans?tab=repositories)
+<p align="center">
+  <a href="https://github.com/Abdurrahmans?tab=achievements"><img src="https://img.shields.io/badge/View-GitHub_Achievements-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Achievements" /></a>
+  <a href="https://github.com/Abdurrahmans?tab=repositories"><img src="https://img.shields.io/github/stars/Abdurrahmans?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&color=7aa2f7" alt="Total stars" /></a>
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm open to **full-time roles, freelance projects, and technical collaborations** in Odoo ERP, Agentic AI, Machine Learning, and backend engineering.
+<p align="center">
+  I'm open to <b>full-time roles, freelance projects and technical collaborations</b><br />
+  in Odoo ERP, Agentic AI, Machine Learning and backend engineering.
+</p>
 
-📩 **Email:** [abdurrahmanswe1997@gmail.com](mailto:abdurrahmanswe1997@gmail.com?subject=Opportunity%20Inquiry)
+<p align="center">
+  <a href="mailto:abdurrahmanswe1997@gmail.com?subject=Opportunity%20Inquiry"><img src="https://img.shields.io/badge/Get_in_Touch-abdurrahmanswe1997%40gmail.com-2EA44F?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch" /></a>
+</p>
 
-[![Get in Touch](https://img.shields.io/badge/Get_in_Touch-Send_an_Email-2EA44F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrahmanswe1997@gmail.com?subject=Opportunity%20Inquiry)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:24283b,100:1a1b27&height=120&section=footer" alt="" width="100%" />
+</p>
 
-⭐ Thanks for visiting! Feel free to explore my repositories and reach out anytime.
+<p align="center"><i>⭐ Thanks for visiting! Feel free to explore my repositories and reach out anytime.</i></p>
