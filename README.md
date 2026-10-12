@@ -199,6 +199,28 @@ Custom Odoo module that gives finance teams a visual dashboard of revenue, expen
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍱 [PlatterPoint](https://github.com/Abdurrahmans/platterpoint)
+Online food ordering and restaurant management platform with menus, cart, order tracking and an admin dashboard.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏫 [School Management System](https://github.com/Abdurrahmans/school_management_system)
+Manages students, teachers, classes, attendance, exams and results, with role-based access for admins, teachers and students.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Odoo](https://img.shields.io/badge/-Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
 </table>
 
 <p align="center">
