@@ -186,6 +186,8 @@ Point-of-sale system for food courts and restaurants with an admin panel, order 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
 
 </td>
 <td width="50%" valign="top">
@@ -216,8 +218,10 @@ Online food ordering and restaurant management platform with menus, cart, order 
 Manages students, teachers, classes, attendance, exams and results, with role-based access for admins, teachers and students.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Odoo](https://img.shields.io/badge/-Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
 
 </td>
 </tr>
