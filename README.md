@@ -244,9 +244,6 @@ Custom Odoo module that gives finance teams a visual dashboard of revenue, expen
 <!-- Contribution snake: works after the "Generate snake" GitHub Action has run once (see .github/workflows/snake.yml) -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdurrahmans/Abdurrahmans/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdurrahmans/Abdurrahmans/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Abdurrahmans/Abdurrahmans/output/github-snake-dark.svg" width="95%" />
     <img src="https://ghchart.rshah.org/7aa2f7/Abdurrahmans" alt="Contribution calendar" width="95%" />
   </picture>
 </p>
